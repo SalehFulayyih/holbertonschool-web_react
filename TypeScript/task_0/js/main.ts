@@ -6,8 +6,8 @@ interface Student {
 }
 
 const firstStudent: Student = {
-  firstName: "Saleh",
-  lastName: "AlHarbi",
+  firstName: "Fahad",
+  lastName: "Alonazi",
   age: 28,
   location: "KSA",
 };
